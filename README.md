@@ -2,6 +2,8 @@
 <h1 align="center">CN-LAB NETWORK SIMULATION VERSION 3.33 WIKI!!</h1>
 
 - [x] **[NS3-Programs](https://amppmann.github.io/CN-Lab-Simulation/CN%20Lab%20MSE-Git/NS-3%20Programs.pdf)**
+- [x] **[Part A](https://amppmann.github.io/NS3/PART%20A.zip)**
+- [x] **[PArt B](https://amppmann.github.io/NS3/PART%20B.zip)**
 
 
 <div>
